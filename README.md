@@ -33,10 +33,11 @@ Para um resultado com maior qualidade a ferramenta necessita que você grave um 
 que gere também um áudio parecido com o seu, não fazendo gestos muito bruscos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue link do vídeo: https://drive.google.com/file/d/19VHozQOc7VxyUbZmqgijbgjRHvjBpBFq/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As ferramentas de IA generativa tem evoluído significativamente, fiquei impressionado com essa ferramenta que praticamente ele criou exatamente a minha voz e o vídeo
+ficou perfeito, sem apresentar defeitos ou ficar algo artificial.
 ```
 
 ### Exemplos e Insigths
