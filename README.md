@@ -20,16 +20,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Falando novos idiomas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em criar um vídeo meu falando italiano, algo que praticamente nunca estudei, mas de forma que pareça como se eu tivesse o domínio da língua.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei a ferramenta heygen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para um resultado com maior qualidade a ferramenta necessita que você grave um vídeo de no mínimo 2 minutos para criar um avatar seu, nele você fala coisa aleatórias para
+que gere também um áudio parecido com o seu, não fazendo gestos muito bruscos.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
